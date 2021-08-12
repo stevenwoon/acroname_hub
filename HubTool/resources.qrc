@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>logo.png</file>
+        <file>edit.png</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>HubTool.icns</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file>TitilliumWeb-Regular.ttf</file>
+    </qresource>
+</RCC>
